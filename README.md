@@ -1,7 +1,10 @@
 # Hip-OA-from-Radiographs-MATLAB-
-MATLAB code for training a CNN using transfer learning for radiographic hip osteoarthritis extraction 
+MATLAB code for training a CNN using transfer learning for radiographic hip osteoarthritic features extraction 
 
 This code takes two classes (default) to train a pretained CNN Resnet18 (default) to extract radiogrpahic features of hip osteorathritis. 
+
+(c) Robel Gebre. University of Oulu <br />
+2021
 
 # How to run
 Step 1: Set the path for datasets and import as imageDatastores <br />
